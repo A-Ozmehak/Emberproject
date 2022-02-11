@@ -1,0 +1,16 @@
+header {
+  background: gray;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+.hebbe {
+  height: 600px;
+  width: 700px;
+}
