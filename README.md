@@ -1,7 +1,5 @@
 # ember-quickstart
-
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is my school project with Ember.
 
 ## Prerequisites
 
@@ -17,7 +15,6 @@ You will need the following things properly installed on your computer.
 
 ## Create a new Application
 * `ember new ember-quickstart --lang en`  create a new application in english
-* `git clone <repository-url>` this repository
 * `cd ember-quickstart` enter the ember-quickstart directory
 
 ## Running / Development
@@ -25,9 +22,9 @@ You will need the following things properly installed on your computer.
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 * Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
 
-### Deploying
+### Creating files
+* `ember generate (filetype) (name)`
 
-Specify what it takes to deploy your app.
 
 ## Further Reading / Useful Links
 * [ember.js](https://emberjs.com/)
